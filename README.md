@@ -1,6 +1,6 @@
 # End-to-End Data Pipeline with Azure & MongoDB
 
-![Data Pipeline Architecture](./https://github.com/anshul-jain-devx108/Big_Data_Engineering/blob/main/Data%20Pipeline%20Architecture.png)
+![Data Pipeline Architecture](https://raw.githubusercontent.com/anshul-jain-devx108/Big_Data_Engineering/main/Data%20Pipeline%20Architecture.png)
 
 
 ## Overview
