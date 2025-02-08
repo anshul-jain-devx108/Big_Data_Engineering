@@ -36,6 +36,14 @@ This project implements a scalable ETL (Extract, Transform, Load) pipeline using
 ✅ Scalable cloud-based architecture for large datasets.
 ✅ Interactive dashboards for business intelligence and reporting.
 
+## Folder Structure
+1.DataIngestiontoDB
+Helps connect with the database deployed on Filess.io.
+Uploads data from local host in CSV format to SQL on Filess.io.
+**Further files are under progress.
+
+
+
 ## Installation & Setup
 ### Prerequisites:
 - Azure subscription with access to **Azure Data Factory, Databricks, Synapse, and ADLS Gen2**.
