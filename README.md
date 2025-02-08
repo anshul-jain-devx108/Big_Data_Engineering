@@ -1,6 +1,6 @@
 # End-to-End Data Pipeline with Azure & MongoDB
 
-![Data Pipeline Architecture](./Data Pipeline Architecture.png)
+![Data Pipeline Architecture](./[Data Pipeline Architecture.png](https://github.com/anshul-jain-devx108/Big_Data_Engineering/blob/main/Data%20Pipeline%20Architecture.png))
 
 ## Overview
 This project implements a scalable ETL (Extract, Transform, Load) pipeline using **Azure Cloud Services** and **MongoDB** for data ingestion, transformation, storage, and visualization.
