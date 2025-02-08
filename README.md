@@ -40,7 +40,7 @@ This project implements a scalable ETL (Extract, Transform, Load) pipeline using
 1.DataIngestiontoDB
 - Helps connect with the database deployed on Filess.io.
 - Uploads data from local host in CSV format to SQL on Filess.io.
-- **Further files are under progress.
+- **Further files are under progress.**
 
 
 
